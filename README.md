@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sushan Poudel
+- 👋 Hi, I’m Susan Poudel
 - 👀 I’m interested in coding and web/app development
 - 🌱 I’m currently learning html, CSS, JS, and Python
 -  Contact info: susanpdl77@gmail.com
