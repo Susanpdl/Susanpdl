@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Susan Poudel
 - I am currently enrolled at Fisk University as a Computer Science and Maths major.
 - 👀 I’m interested in coding and web/app development
-- 🌱 My skill sets include HTML, CSS, JavaScript, Bootstrap, Python, Reactjs, and some basics of backend dev (nodejs, mongodb, and mongoose)
+- 🌱 My skill sets include Python, C++, Reactjs, Express, Angular, Azure, REST API, MySQL, MongoDB, and more. 
 -  You can reach me at spoudel01@my.fisk.edu
 
 <!---
